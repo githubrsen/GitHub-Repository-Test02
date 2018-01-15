@@ -1,4 +1,8 @@
-#BLABLA
+#TOLLE SACHE
+#BLABLA_AENDERUNG
+#BLABLA_AENDERUNG
+#BLABLA_AENDERUNG
+#BLABLA_AENDERUNG
 <#
 .SYNOPSIS
     Gets all the Active Directory groups that have a specified user, computer,
